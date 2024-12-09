@@ -1,4 +1,4 @@
-# Operating System: Nachos
+# Operating System- Nachos
 
 This directory contains detailed reports documenting the implementation, design decisions, and verification for various assignments in the **Operating Systems** course. Below is an overview of each assignment report:
 
