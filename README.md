@@ -74,8 +74,9 @@ This directory contains detailed reports documenting the implementation, design 
 
 ## **Team Contributions**
 - **Team Members**:
+  - 許峻源 (111062649)  [Chun-Yuan Hsu]
   - 楊宗諺 (108022138)
-  - 許峻源 (111062649)
+  
 - **Roles**:
   - Both members collaborated on all assignments, shared the workload evenly, and contributed to writing and debugging code.
 
