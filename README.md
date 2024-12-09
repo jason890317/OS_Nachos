@@ -81,12 +81,4 @@ This directory contains detailed reports documenting the implementation, design 
 
 ---
 
-This directory showcases the structured approach, problem-solving skills, and team effort invested in mastering key concepts of Operating Systems.
-"""
 
-# Save the content to a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
